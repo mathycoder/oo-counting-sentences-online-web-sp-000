@@ -15,7 +15,7 @@ class String
   end
 
   def count_sentences
-    
+    include.pry 
     self.split
     
   end
